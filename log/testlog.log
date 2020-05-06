@@ -1,0 +1,34 @@
+2020-05-06 01:41:25,403 - noCommerce -INFO - *******Launching Browser*********
+2020-05-06 01:41:25,471 - noCommerce -INFO - *******Openning URL*********
+2020-05-06 01:41:26,928 - noCommerce -INFO - *******Entering login credentials*********
+2020-05-06 01:41:27,144 - noCommerce -INFO - *******Clicking login button*********
+2020-05-06 01:41:31,639 - noCommerce -INFO - *******get dashboard*********
+2020-05-06 01:41:32,134 - noCommerce -INFO - *******Clicked Customer Menu*********
+2020-05-06 01:41:33,537 - noCommerce -INFO - *******Clicked Customer Item*********
+2020-05-06 01:41:34,888 - noCommerce -INFO - *******Clicked Add New Menu*********
+2020-05-06 01:41:34,895 - noCommerce -INFO - *******Validated Add New Customer Page*********
+2020-05-06 01:41:34,899 - noCommerce -INFO - *******providing customer info*********
+2020-05-06 01:41:37,505 - noCommerce -INFO - *******Customer Details saved*********
+2020-05-06 01:41:39,124 - noCommerce -INFO - *******get Confirmation with message*********
+2020-05-06 01:41:39,126 - noCommerce -INFO - *******closing Browser*********
+2020-05-06 01:41:47,341 - noCommerce -INFO - *******Launching Browser*********
+2020-05-06 01:41:47,347 - noCommerce -INFO - *******Openning URL*********
+2020-05-06 01:41:48,710 - noCommerce -INFO - *******Entering login credentials*********
+2020-05-06 01:41:48,911 - noCommerce -INFO - *******Clicking login button*********
+2020-05-06 01:41:53,528 - noCommerce -INFO - *******Login passed*********
+2020-05-06 01:41:56,536 - noCommerce -INFO - *******click on logout link*********
+2020-05-06 01:41:58,197 - noCommerce -INFO - *******Logout successful*********
+2020-05-06 01:41:58,199 - noCommerce -INFO - *******closing Browser*********
+2020-05-06 01:42:05,069 - noCommerce -INFO - *******Launching Browser*********
+2020-05-06 01:42:05,073 - noCommerce -INFO - *******Openning URL*********
+2020-05-06 01:42:06,527 - noCommerce -INFO - *******Entering login credentials*********
+2020-05-06 01:42:06,790 - noCommerce -INFO - *******Clicking login button*********
+2020-05-06 01:42:10,942 - noCommerce -INFO - *******Login passed*********
+2020-05-06 01:42:13,952 - noCommerce -INFO - *******click on logout link*********
+2020-05-06 01:42:15,877 - noCommerce -INFO - *******Logout successful*********
+2020-05-06 01:42:15,878 - noCommerce -INFO - *******closing Browser*********
+2020-05-06 01:42:22,656 - noCommerce -INFO - *******Launching Browser*********
+2020-05-06 01:42:22,659 - noCommerce -INFO - *******Openning URL*********
+2020-05-06 01:42:23,576 - noCommerce -INFO - *******Entering login credentials*********
+2020-05-06 01:42:23,823 - noCommerce -INFO - *******Clicking login button*********
+2020-05-06 01:42:24,327 - noCommerce -INFO - *******Login failed*********
