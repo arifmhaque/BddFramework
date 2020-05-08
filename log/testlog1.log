@@ -32,3 +32,101 @@
 2020-05-06 01:42:23,576 [main] INFO noCommerce - *******Entering login credentials*********
 2020-05-06 01:42:23,823 [main] INFO noCommerce - *******Clicking login button*********
 2020-05-06 01:42:24,327 [main] INFO noCommerce - *******Login failed*********
+2020-05-07 17:16:14,607 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:16:14,658 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:16:14,717 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:16:14,719 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:16:14,745 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:16:14,747 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:16:14,767 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:16:14,769 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:17:20,040 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:17:20,115 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:17:20,164 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:17:20,166 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:17:20,191 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:17:20,194 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:17:20,212 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:17:20,214 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:17:48,199 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:17:48,244 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:17:48,302 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:17:48,305 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:17:48,331 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:17:48,335 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:17:48,353 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:17:48,355 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:21:26,177 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:21:26,233 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:21:26,293 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:21:26,295 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:21:26,321 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:21:26,323 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:21:26,344 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:21:26,348 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:23:08,543 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:23:08,594 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:23:08,645 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:23:08,648 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:23:08,670 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:23:08,673 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:23:08,692 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:23:08,694 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:24:33,793 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:24:33,890 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:24:33,917 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:24:33,941 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:28:45,836 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:28:46,815 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:28:46,815 [main] INFO noCommerce - *******Entering login credentials*********
+2020-05-07 17:28:47,087 [main] INFO noCommerce - *******Clicking login button*********
+2020-05-07 17:28:51,826 [main] INFO noCommerce - *******get dashboard*********
+2020-05-07 17:28:52,100 [main] INFO noCommerce - *******Clicked Customer Menu*********
+2020-05-07 17:28:53,409 [main] INFO noCommerce - *******Clicked Customer Item*********
+2020-05-07 17:28:54,792 [main] INFO noCommerce - *******Clicked Add New Menu*********
+2020-05-07 17:28:54,800 [main] INFO noCommerce - *******Validated Add New Customer Page*********
+2020-05-07 17:28:54,802 [main] INFO noCommerce - *******providing customer info*********
+2020-05-07 17:28:57,221 [main] INFO noCommerce - *******Customer Details saved*********
+2020-05-07 17:28:58,361 [main] INFO noCommerce - *******get Confirmation with message*********
+2020-05-07 17:28:58,363 [main] INFO noCommerce - *******closing Browser*********
+2020-05-07 17:29:05,027 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:29:06,098 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:29:06,101 [main] INFO noCommerce - *******Entering login credentials*********
+2020-05-07 17:35:59,079 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:35:59,174 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:35:59,201 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:35:59,223 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:42:25,483 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:42:26,946 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:42:26,950 [main] INFO noCommerce - *******Entering login credentials*********
+2020-05-07 17:42:27,229 [main] INFO noCommerce - *******Clicking login button*********
+2020-05-07 17:42:31,079 [main] INFO noCommerce - *******get dashboard*********
+2020-05-07 17:42:31,415 [main] INFO noCommerce - *******Clicked Customer Menu*********
+2020-05-07 17:42:33,165 [main] INFO noCommerce - *******Clicked Customer Item*********
+2020-05-07 17:42:34,604 [main] INFO noCommerce - *******Clicked Add New Menu*********
+2020-05-07 17:42:34,613 [main] INFO noCommerce - *******Validated Add New Customer Page*********
+2020-05-07 17:42:34,615 [main] INFO noCommerce - *******providing customer info*********
+2020-05-07 17:42:36,862 [main] INFO noCommerce - *******Customer Details saved*********
+2020-05-07 17:42:37,695 [main] INFO noCommerce - *******get Confirmation with message*********
+2020-05-07 17:42:37,697 [main] INFO noCommerce - *******closing Browser*********
+2020-05-07 17:42:44,546 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:42:45,795 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:42:45,797 [main] INFO noCommerce - *******Entering login credentials*********
+2020-05-07 17:42:46,053 [main] INFO noCommerce - *******Clicking login button*********
+2020-05-07 17:42:50,150 [main] INFO noCommerce - *******Login passed*********
+2020-05-07 17:42:53,170 [main] INFO noCommerce - *******click on logout link*********
+2020-05-07 17:42:55,535 [main] INFO noCommerce - *******Logout successful*********
+2020-05-07 17:42:55,536 [main] INFO noCommerce - *******closing Browser*********
+2020-05-07 17:43:02,856 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:43:04,099 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:43:04,103 [main] INFO noCommerce - *******Entering login credentials*********
+2020-05-07 17:43:04,368 [main] INFO noCommerce - *******Clicking login button*********
+2020-05-07 17:43:08,720 [main] INFO noCommerce - *******Login passed*********
+2020-05-07 17:43:11,734 [main] INFO noCommerce - *******click on logout link*********
+2020-05-07 17:43:13,636 [main] INFO noCommerce - *******Logout successful*********
+2020-05-07 17:43:13,638 [main] INFO noCommerce - *******closing Browser*********
+2020-05-07 17:43:21,224 [main] INFO noCommerce - *******Launching Browser*********
+2020-05-07 17:43:22,516 [main] INFO noCommerce - *******Openning URL*********
+2020-05-07 17:43:22,518 [main] INFO noCommerce - *******Entering login credentials*********
+2020-05-07 17:43:22,785 [main] INFO noCommerce - *******Clicking login button*********
+2020-05-07 17:43:23,213 [main] INFO noCommerce - *******Login failed*********
